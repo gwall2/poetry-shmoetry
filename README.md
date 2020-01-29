@@ -1,0 +1,2 @@
+# poetry-shmoetry
+inspiration generator
