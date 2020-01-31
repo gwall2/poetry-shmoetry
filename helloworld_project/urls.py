@@ -22,5 +22,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # configured the url
     path('',views.index, name="homepage"),
-    path('poems/',views.get_poems,name="get_poems")
+    path('poems/',views.get_poems,name="get_poems"),
+    path('anal_text/',views.anal_text,name="anal_text")
 ]
